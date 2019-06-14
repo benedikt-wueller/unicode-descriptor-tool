@@ -1,29 +1,27 @@
 # unicode-descriptor-tool
 
+This is an example usage of the `unicode-descriptor` library I wrote. It is a tool to create descriptors using a visual
+interface.
+
+[Take me there!](https://benedikt.dev/unicode-descriptor)
+
+
+## Disclaimer
+
+This code is not very pretty but it does the job.
+
+
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
