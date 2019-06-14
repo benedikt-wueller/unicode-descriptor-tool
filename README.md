@@ -1,6 +1,6 @@
 # unicode-descriptor-tool
 
-This is an example usage of the `unicode-descriptor` library I wrote. It is a tool to create descriptors using a visual
+This is an example usage of the [unicode-descriptor](https://github.com/Bw2801/unicode-descriptor) library I wrote. It is a tool to create descriptors using a visual
 interface.
 
 [Take me there!](https://benedikt.dev/unicode-descriptor)
